@@ -1,0 +1,2 @@
+tensorflow==2.9.3
+imageio==2.4.1
